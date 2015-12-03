@@ -1,6 +1,6 @@
-#include <cstdio>
+asfasfasfas#include <cstdio>
 
-uasdasd
+uasdasdasffasfasfs
 {
     bool czy;
     int n, ile;
