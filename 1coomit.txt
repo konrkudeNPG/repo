@@ -1,9 +1,9 @@
 #include <cstdio>
 
 uasdasd
-{
+{czxczxc
     bool czy;
-    int n, ile;
+    int n, ile;xcvxcv
     scanf("%d", &n);
     int tab[n];
     for (int i = 0; i < n; i++)
